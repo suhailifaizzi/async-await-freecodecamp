@@ -1,0 +1,22 @@
+{
+  "name": "async-await-freecodecamp",
+  "version": "1.0.0",
+  "description": "Tutorial to master javascript async and await.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhailifaizzi/async-await-freecodecamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhailifaizzi/async-await-freecodecamp/issues"
+  },
+  "homepage": "https://github.com/suhailifaizzi/async-await-freecodecamp#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
